@@ -1,2 +1,2 @@
 # cassava_disease_kaggle
-Cassava disease classification challenge on Kaggle
+Makerere University AI Lab - Cassava Leaf Disease Classification on Kaggle
